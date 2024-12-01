@@ -1,4 +1,4 @@
-﻿# CS2-Python
+﻿# CS2-Emergency Stop-Python
  一个自己写的小急停文件
  正在慢慢完善
  弹墙还是解决不了
